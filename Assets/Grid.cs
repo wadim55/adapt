@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class Grid : MonoBehaviour
 {
-    private Transform[,] _cell = new Transform[8,8];
+    public Transform[,] _cell = new Transform[8,8];
     private int _numberCell;
     private float YPos = 350, XPos = -350;
     private bool key;
@@ -31,6 +31,4 @@ public class Grid : MonoBehaviour
             YPos -= 100;
         }
     }
-
-   
 }

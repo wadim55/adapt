@@ -4,17 +4,7 @@
     <list default="true" id="2d53bcb6-86f9-4b25-9c88-361542f5d766" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.adapt/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.adapt/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.adapt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.adapt/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Fox.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Fox.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoxScript.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FoxScript.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SafeAreaFilter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SafeAreaFilter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/wolf.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/wolf.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/wolf.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/wolf.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grid.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grid.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +20,7 @@
         <option value="$PROJECT_DIR$/Assets/wolf.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/test.cs" />
         <option value="$PROJECT_DIR$/Assets/Grid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shashka.cs" />
       </list>
     </option>
   </component>
@@ -78,6 +69,8 @@
       <workItem from="1693056157845" duration="2736000" />
       <workItem from="1693058948474" duration="5000" />
       <workItem from="1693059020443" duration="20000" />
+      <workItem from="1693214204290" duration="6337000" />
+      <workItem from="1693233893713" duration="212000" />
     </task>
     <servers />
   </component>
@@ -90,6 +83,10 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1184" y="254" key="RiderGenerateDialog" timestamp="1693232075980">
+      <screen x="0" y="0" width="2752" height="1104" />
+    </state>
+    <state x="1184" y="254" key="RiderGenerateDialog/0.0.2752.1104@0.0.2752.1104" timestamp="1693232075980" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1693057893477">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
