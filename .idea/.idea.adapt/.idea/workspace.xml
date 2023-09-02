@@ -4,7 +4,7 @@
     <list default="true" id="2d53bcb6-86f9-4b25-9c88-361542f5d766" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.adapt/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.adapt/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.adapt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.adapt/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Grid.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grid.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shashka.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shashka.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +71,7 @@
       <workItem from="1693059020443" duration="20000" />
       <workItem from="1693214204290" duration="6337000" />
       <workItem from="1693233893713" duration="212000" />
+      <workItem from="1693660415957" duration="2143000" />
     </task>
     <servers />
   </component>
