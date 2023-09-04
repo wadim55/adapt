@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2d53bcb6-86f9-4b25-9c88-361542f5d766" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.adapt/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.adapt/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.adapt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.adapt/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ChekShahka.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ChekShahka.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +95,7 @@
       <workItem from="1693233893713" duration="212000" />
       <workItem from="1693660415957" duration="2143000" />
       <workItem from="1693739179723" duration="2672000" />
+      <workItem from="1693821554951" duration="340000" />
     </task>
     <servers />
   </component>
@@ -113,6 +114,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
